@@ -27,11 +27,11 @@ else:
             print(">>>nobody will ever find you, you're save!!!")
         else:
             print("...yes")
-            print(">>>you're fucked!")
+            print(">>>you're f***ed!")
             print(">>>can you blame it on someone else?")
             if checker[3] == "n":
                 print("...damn, no I can't!")
-                print(">>>you're really fucked!!!")
+                print(">>>you're really f***ed!!!")
             else:
                 print("Thank god, yes")
-                print(">>> Don't worry someone else is fucked :)")
+                print(">>> Don't worry someone else is f***ed :)")
